@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332129002713",
+    "firebase_url": "https://chatter-app-6bbc1.firebaseio.com",
+    "project_id": "chatter-app-6bbc1",
+    "storage_bucket": "chatter-app-6bbc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332129002713:android:b0284afb961cfaf80d8ac8",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332129002713-g4n019lfed71k88k7142594dm93s9bhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdBRFp-dbjWIqcNXEX7Z8wgNatXl1ueAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332129002713-g4n019lfed71k88k7142594dm93s9bhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
